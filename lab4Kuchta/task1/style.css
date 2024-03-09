@@ -1,0 +1,21 @@
+#gallery {
+    width: 80%;
+    margin: auto;
+}
+
+#largeImage {
+    width: 100%;
+    height: auto;
+}
+
+#thumbs {
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+#thumbs img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+    cursor: pointer;
+}
